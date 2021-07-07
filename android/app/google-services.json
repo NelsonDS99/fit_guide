@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146116532059",
+    "project_id": "fit-ionary",
+    "storage_bucket": "fit-ionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146116532059:android:8f1d80af0e3cf7ab5fec7e",
+        "android_client_info": {
+          "package_name": "com.nelson.fitguide.fit_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146116532059-8eebo9ichtf5d16qilq93q9njpgjb0mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByROvwcbmrLYKsIbth3VdaXe3vvT9gRrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146116532059-8eebo9ichtf5d16qilq93q9njpgjb0mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
