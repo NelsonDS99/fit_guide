@@ -1,16 +1,8 @@
 # fit_guide
 
-A new Flutter project.
+A mobile flutter application for documenting your workouts.
 
-## Getting Started
+![Screenshot_1625591288](https://user-images.githubusercontent.com/22487903/134124867-2e00486b-33f8-4ab4-b237-c2df4ff40232.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1625591351](https://user-images.githubusercontent.com/22487903/134124916-1c5f5120-966e-4248-a199-c70eb69d0b4c.png)
